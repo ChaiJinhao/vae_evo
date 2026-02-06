@@ -98,4 +98,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## ➕Citation
 
-Coming soon! Please star/watch this repository to stay updated.
+
+If you use this work, please cite our preprint:
+
+```bibtex
+@article{chai2026can,
+  title={Can Evolution Be Learned as a Generative Process?},
+  author={Chai, Jinhao and Chen, Guanda and Shen, Jingfang},
+  journal={TechRxiv},
+  year={2026},
+  doi={10.36227/techrxiv.177041645.58906907/v1}  
+}
